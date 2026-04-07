@@ -1,12 +1,16 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atarubift&layout=compact&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atarubift&show_icons=true&theme=cobalt" />
-</p>
+# atarubift
 
+GitHub profile README for `@atarubift`.
 
+## GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atarubift&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atarubift&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atarubift&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/atarubift/atarubift/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/atarubift/atarubift/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/atarubift/atarubift/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/atarubift/atarubift/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/atarubift/atarubift/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atarubift&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## Activity Summary
+
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atarubift&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atarubift&theme=tokyonight&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
